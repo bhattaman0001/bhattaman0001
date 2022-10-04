@@ -6,7 +6,7 @@
 
 <!-- - 👯 I’m looking to collaborate on **Any Projects as per my skillset** -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/bhattaman0001?tab=repositories](https://github.com/bhattaman0001/)
+- 👨‍💻 All of my projects are available at [here](https://github.com/bhattaman0001?tab=repositories)
 
 
 - 💬 Ask me about **C/C++, DSA, Competitive Programming, Android Development**
