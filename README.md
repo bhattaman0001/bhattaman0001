@@ -20,7 +20,6 @@
 <div align="left">
 
 ![profile visit](https://komarev.com/ghpvc/?username=bhattaman0001) 
-![Repos Badge](https://badges.pufler.dev/repos/bhattaman0001)
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=bhattaman0001&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhattaman0001&layout=compact&theme=buefy" alt="languages" height="165">
@@ -96,6 +95,6 @@
   <img src="https://profile-counter.glitch.me/bhattaman0001/count.svg" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/bhattaman0001/bhattaman0001/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p> -->
