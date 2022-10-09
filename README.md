@@ -95,6 +95,4 @@
   <img src="https://profile-counter.glitch.me/bhattaman0001/count.svg" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github.com/bhattaman0001/bhattaman0001/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p> -->
+![Snake animation](https://github.com/bhattaman0001/bhattaman0001/blob/output/github-contribution-grid-snake.svg)
