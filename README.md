@@ -2,7 +2,7 @@
 
 ## I'm a Android Developer, Competitive Programmer!
 
-- 🌱 I’m currently learning about **Competitive Programming** and **DSA**
+- 🌱 I’m currently doing **Android Development** and **DSA**
 
 <!-- - 👯 I’m looking to collaborate on **Any Projects as per my skillset** -->
 
