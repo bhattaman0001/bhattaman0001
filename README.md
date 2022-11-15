@@ -1,8 +1,8 @@
 ## Hi there, I'm Aman Bhatt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Android Developer, Competitive Programmer!
+## I'm an Android Developer. 
 
-- 🌱 I’m currently doing **Android Development** and **DSA**
+- 🌱 I’m currently doing **Android Development** and if you have doubt related to it drop me a *mail* or message on *LinkedIn*.
 
 <!-- - 👯 I’m looking to collaborate on **Any Projects as per my skillset** -->
 
