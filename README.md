@@ -2,7 +2,7 @@
 
 ## I'm an Android Developer. 
 
-- 🌱 I’m currently doing **Android Development** and if you have doubt related to it drop me a *mail* or message on *LinkedIn*.
+- 🌱 I’m currently doing **Android Development** | **Android Developer Intern @xAppyHigh** and if you have doubt related to it drop me a *mail* or message on *LinkedIn*.
 
 <!-- - 👯 I’m looking to collaborate on **Any Projects as per my skillset** -->
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C/C++, DSA, Competitive Programming, Android Development**
 
-- 📫 How to reach me **Dheeerajbhatt301@gmail.com**
+- 📫 How to reach me **iiit.una.2024@gmail.com**
 
 - 📄 Know about other detail in my **[Resume](https://bit.ly/amanbhatt_resume)**
 
