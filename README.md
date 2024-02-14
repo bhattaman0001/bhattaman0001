@@ -2,7 +2,7 @@
 
 ## I'm an Android Developer. 
 
-- 🌱 I’m currently doing **Android Development** | **Android Developer Intern @xAppyHigh** and if you have doubt related to it drop me a *mail* or message on *LinkedIn*.
+- 🌱 I’m currently doing **Android Development** | **Android Developer Intern @xAppyHigh** and if you have doubt related to it drop me a <a href="mailto:iiit.una.2024@gmail.com">Mail</a> or reach me at <a href="https://www.linkedin.com/in/iamamanbhatt/">LinkedIn</a>.
 
 <!-- - 👯 I’m looking to collaborate on **Any Projects as per my skillset** -->
 
@@ -33,13 +33,6 @@
 [<img  align="left" alt="f | YouTube" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left"  alt="f | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
-<br />
-
-![GitHub metrics](https://metrics.lecoq.io/bhattaman0001) <br>
-
-### 🏆 Github trophies
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bhattaman0001)  
 <br />
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:
@@ -89,10 +82,3 @@
 [linkedin]: https://www.linkedin.com/in/iamamanbhatt/
 [twitter]:   https://twitter.com/AmanBha87580240
 [youtube]:   https://www.youtube.com/channel/UCfXLQjdgR4L4pf_jrseKUhg
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/bhattaman0001/count.svg" />
-</p>
-
-![Snake animation](https://github.com/bhattaman0001/bhattaman0001/blob/output/github-contribution-grid-snake.svg)
