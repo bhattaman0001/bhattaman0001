@@ -1,84 +1,106 @@
-## Hi there, I'm Aman Bhatt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-## I'm an Android Developer. 
-
-- 🌱 I’m currently doing **Android Development** | **Android Developer Intern @xAppyHigh** and if you have doubt related to it drop me a <a href="mailto:iiit.una.2024@gmail.com">Mail</a> or reach me at <a href="https://www.linkedin.com/in/iamamanbhatt/">LinkedIn</a>.
-
-<!-- - 👯 I’m looking to collaborate on **Any Projects as per my skillset** -->
-
-- 👨‍💻 All of my projects are available at [here](https://github.com/bhattaman0001?tab=repositories)
-
-
-- 💬 Ask me about **C/C++, DSA, Competitive Programming, Android Development**
-
-- 📫 How to reach me **iiit.una.2024@gmail.com**
-
-- 📄 Know about other detail in my **[Resume](https://bit.ly/amanbhatt_resume)**
-
-### 👦Stats:
-
-<div align="left">
-
-![profile visit](https://komarev.com/ghpvc/?username=bhattaman0001) 
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=bhattaman0001&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhattaman0001&layout=compact&theme=buefy" alt="languages" height="165">
-</p>
-</div>
-
-### 👨‍💻Connect with me
-
-[<img align="left" alt="f | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="f | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img  align="left" alt="f | YouTube" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left"  alt="f | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
-<br />
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:
-
-<p align="left">
-	<a href="https://www.cprogramming.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-	</a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-	</a>
-	<a href="https://www.java.com/en/" target="_blank">
-		<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/java.svg" width="40" height="40"/>
-	</a>
-	<a href="https://kotlinlang.org/" target="_blank">
-		<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/kotlin.svg" alt="dart" width="40" height="40"/>
-	</a>	
-	<a href="https://git-scm.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-	</a>
-	<a href="https://www.python.org" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-	</a>
+<h1 align="center">Aman Bhatt ⚡️</h1>
+<p align="center">
+  <em>Architect of Logic • Alchemist of LLMs • Backend Bard</em><br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Turning+Ideas+into+Code;Solving+Legal+Logic+with+LLMs;Crafting+Backend+like+Art;Shipping+Fast%2C+Clean%2C+and+Scalable" />
 </p>
 
-### <img src="https://media.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif" width="50"> Problem Solving website progress:
-
-<p align="left">
-	<a href="https://leetcode.com/Aman20306/" target="_blank">
-		<img src="https://media.glassdoor.com/sqll/1763822/leetcode-squarelogo-1524799041565.png" alt="c" width="40" height="40"/>
-	</a>
-	<a href="https://codeforces.com/profile/bhattaman0001" target="_blank">
-		<img src="https://image.winudf.com/v2/image/Y29tLlNvZnRUZWNocy5Db2RlRm9yY2VzX2ljb25fMF9jOTA3NjNhMA/icon.png?w=170&fakeurl=1"  width="40" height="40"/>
-	</a>
-	<a href="https://auth.geeksforgeeks.org/user/aman_bhatt_02/practice" target="_blank">
-		<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210915115837/gfg3-300x300.png" width="40" height="40"/>
-	</a>
-	<a href="https://www.codechef.com/users/aman_bhatt_02" target="_blank">
-		<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" width="60" height="40"/>
-	</a>
-	<a href="https://atcoder.jp/users/Bhattaman0001" target="_blank">
-		<img src="https://user-images.githubusercontent.com/63050133/151978916-3b2ea906-152e-4e09-b2ed-250c08498b6d.png" width="60" height="40"/>
-	</a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
-[instagram]: https://www.instagram.com/iamamanbhatt/
-[linkedin]: https://www.linkedin.com/in/iamamanbhatt/
-[twitter]:   https://twitter.com/AmanBha87580240
-[youtube]:   https://www.youtube.com/channel/UCfXLQjdgR4L4pf_jrseKUhg
+---
+
+## 👨‍💻 About Me
+
+- 🧠 **GenAI Engineer** at Shorthills AI | Building reasoning systems with GPT, LLaMA, Mistral
+- 🔁 Turning **legal & tax documents** into reversible QnA workflows using AI
+- ⚙️ Devout backend builder (Python, Django, FastAPI) — APIs that *actually scale*
+- ✍️ Obsessive about **prompt patterns**, **system design**, and clean abstractions
+- ☁️ AWS-powered, Redis-cached, Postgres-backed: I make infra *invisible*
+
+---
+
+## 🔥 Highlights of My Dev-Life
+
+🏆 **HashCode 2022** – Global Rank **3448**  
+💻 **650+ LeetCode Problems**  
+🌍 **Global Rank 81** on CodeChef (Starters 72)  
+⚡ **Live Projects Used by Teams & Clients in Production**
+
+> ✨ I don’t just write code. I **write clarity**, **structure**, and **speed**.
+
+---
+
+## 🛠️ My Toolbox
+
+**Languages:**  
+`Python` `C++` `Kotlin` `Java` `SQL`  
+
+**Frameworks & Libs:**  
+`Django` `FastAPI` `Pytest` `Langchain` `BeautifulSoup`  
+
+**Infra & DevOps:**  
+`AWS EC2/S3` `Redis` `GitHub Actions` `PostgreSQL` `Linux`  
+
+**Prompting Power:**  
+`Chain of Thought (CoT)` `ReAct` `Tree of Thoughts (ToT)` `Custom Tool-Calling Chains`
+
+---
+
+## 🚀 Notable Builds
+
+| Project | What It Does |
+|--------|---------------|
+| **GST Show Cause Generator** | Turns raw tax notices into AI-driven response drafts using QnA chains |
+| **Doc QA PromptTree** | Legal ground → condition-based questions → reversible document construction |
+| **QuickDroid (Android)** | Universal media parser and downloader, link recognizer, cache-optimized |
+| **Meeting Scheduler** | Role-based Django booking system with notifications & REST APIs |
+
+🔍 Full Portfolio → [Click Here](https://github.com/bhattaman0001?tab=repositories)
+
+---
+
+## 🧠 Competitive Coding Prowess
+
+| Platform     | Max Rating | Vibe |
+|--------------|------------|----------------|
+| LeetCode     | 1419       | "Pattern breaker" |
+| CodeChef     | 1605       | "Global Rank 81" |
+| Codeforces   | 1192       | "Grid-grinding warrior" |
+| AtCoder      | 872        | "Still climbing the dojo" |
+
+---
+
+## 📊 Stats That Speak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhattaman0001&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhattaman0001&theme=radical" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhattaman0001&layout=compact&theme=radical" width="40%" />
+</p>
+
+---
+
+## 🌐 Connect Like a Developer God
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamamanbhatt/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:aman.iiitu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="https://aman-dev.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox&logoColor=white" /></a>
+  <a href="https://leetcode.com/Aman20306/"><img src="https://img.shields.io/badge/-LeetCode-yellow?style=flat-square&logo=leetcode" /></a>
+  <a href="https://codeforces.com/profile/bhattaman0001"><img src="https://img.shields.io/badge/-Codeforces-blue?style=flat-square&logo=codeforces" /></a>
+</p>
+
+---
+
+## 🔥 Last Words
+
+> I don’t chase perfection. I **engineer it.**  
+> Whether it’s a legal argument, a microservice, or a logic chain —  
+> I break it down, rebuild it clean, and **ship it bold.**
+
+🧠 *Talk code. Build meaning. Repeat.*
+
+---
